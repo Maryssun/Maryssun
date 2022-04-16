@@ -2,11 +2,7 @@
 
 <div align="left">
   <a href="https://github.com/Maryssun">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryssun&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mary-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Mary-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
