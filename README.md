@@ -1,12 +1,29 @@
-## Olá, eu sou a Dayanne Maryssol, futura Desenvolvedora Web!
+### Olá, eu sou a Dayanne Maryssol, futura Desenvolvedora Web!
 
-<div align="left">
+<div align="right"> 
+  <a href="https://instagram.com/dayannemaryssol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:maryssol.dayanne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
+  
+  
+- 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
+- 💻 Cursando o Bootcamp da Laboratória e um curso livre no Instituto Federal de São Paulo.
+- 💛 Estou aprendendo JavaScript, CSS, HTML e Programação Orientada a Objetos com Java.
+- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais. 
+- 📫 Contato e-mail: maryssol.dayanne@gmail.com 
+
+
+##
+<br>
+<br>
+<div align="center">
   <a href="https://github.com/Maryssun">
     
    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryssun&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<!--    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryssun&layout=compact&langs_count=7&theme=dracula"/>
+</div> -->
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Mary-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,11 +36,4 @@
   
   ##
  
-<div> 
-  <a href="https://instagram.com/dayannemaryssol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:maryssol.dayanne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/Maryssun/Maryssun/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
