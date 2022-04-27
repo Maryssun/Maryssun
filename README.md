@@ -11,6 +11,7 @@
 - 💻 Cursando o Bootcamp da Laboratória e um curso livre de tecnologia no Instituto Federal de São Paulo.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Programação Orientada a Objetos com Java.
 - 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais. 
+- 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022.
 - 📫 Contato e-mail: maryssol.dayanne@gmail.com 
 
 <div align="left"> 
