@@ -2,7 +2,7 @@
 
 <div align = center>
     <a href="https://github.com/Maryssun">
-    <img align="right" alt="Moni-pic" height="170" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/263035_eFddREOg.png">
+    <img align="right" alt="Mary-pic" height="160px" src="https://picrew.me/shareImg/org/202204/263035_eFddREOg.png">
     </a>
 </div>
   
