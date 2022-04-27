@@ -1,17 +1,23 @@
 ### Olá, eu sou a Dayanne Maryssol, futura Desenvolvedora Web!
 
-<div align="right"> 
-  <a href="https://instagram.com/dayannemaryssol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:maryssol.dayanne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
+<div align = center>
+    <a href="https://github.com/Maryssun">
+    <img align="right" alt="Moni-pic" height="170" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/263035_eFddREOg.png">
+    </a>
+</div>
   
-  
+ 
 - 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
 - 💻 Cursando o Bootcamp da Laboratória e um curso livre no Instituto Federal de São Paulo.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Programação Orientada a Objetos com Java.
 - 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais. 
 - 📫 Contato e-mail: maryssol.dayanne@gmail.com 
+
+<div align="left"> 
+  <a href="https://instagram.com/dayannemaryssol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:maryssol.dayanne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
 
 
 ##
