@@ -11,7 +11,7 @@
 - 💻 Cursando o Bootcamp da Laboratória e um curso livre de tecnologia no Instituto Federal de SP.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Java.
 - 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais. 
-- 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022 pela UNIVESP.
+- 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022 pela UNIFESP.
 
 <br><div align="center"> 
   <a href="https://instagram.com/dayannemaryssol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
