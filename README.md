@@ -1,4 +1,4 @@
-### Olá, como vai? Por aqui estou construindo minha jornada DEV!! <br> 
+### Olá, como vai? Por aqui estou construindo minha jornada DEV! <br> 
 #### Sou Psicopedagoga, em transição de carreira, estudando Front-End pela [Laboratória](https://www.laboratoria.la/br).
 
 <div align = right>
