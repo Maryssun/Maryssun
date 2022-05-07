@@ -1,4 +1,5 @@
-## Olá, eu sou a Dayanne Maryssol, futura Desenvolvedora Web!
+### Olá, como vai? Por aqui estou construindo minha jornada DEV!
+#### Sou Psicopedagoga, em transição de carreira, estudando de Front-End pela [Laboratoria](https://www.laboratoria.la/).
 
 <div align = right>
     <a href="https://github.com/Maryssun">
@@ -6,7 +7,6 @@
     </a>
 </div>
   
- 
 - 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
 - 💻 Cursando o Bootcamp da Laboratória e um curso livre de tecnologia no Instituto Federal de SP.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Programação Orientada a Objetos com Java.
@@ -19,6 +19,10 @@
   <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
 
+## Curiosidades não requisitadas sobre mim:
+- Adoro cerveja artesanal - stout e irish red ale - e coleciono as tampinhas.
+- Minha playlist vai de pagode anos 90 à Machine Head.
+- Quando criança queria ser arqueóloga e viver as aventuras do Indiana Jones.
 
 ##
 <br>
