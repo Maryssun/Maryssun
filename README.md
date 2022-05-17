@@ -9,9 +9,9 @@
   
  
 - 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
-- 💻 Cursando o Bootcamp da Laboratória e um curso livre de tecnologia no Instituto Federal de SP.
+- 💻 Cursando o Bootcamp da Laboratória e um curso de Programação Orientada a Objetos com Java Instituto Federal de SP.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Java.
-- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais. 
+- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais e de me aprofundar nas linaguagens Python, JAVA e Cloud.
 - 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022 pela UNIFESP.
 
 <br><div align="center"> 
