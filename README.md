@@ -9,10 +9,10 @@
   
  
 - 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
-- 💻 Cursando o Bootcamp da Laboratória e um curso de Programação Orientada a Objetos com Java Instituto Federal de SP.
+- 💻 Cursando o Bootcamp da Laboratória e um curso de Programação Orientada a Objetos com Java IFSP.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Java.
 - 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais e de me aprofundar nas linaguagens Python, JAVA e Cloud.
-- 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022 pela UNIFESP.
+- 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022.
 
 <br><div align="center"> 
   <a href="https://instagram.com/dayannemaryssol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
