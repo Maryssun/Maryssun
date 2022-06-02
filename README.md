@@ -9,7 +9,7 @@
 - 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022.
 
 <br><div align = center>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </div>
 <br>
 <br>
