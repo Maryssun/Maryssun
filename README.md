@@ -1,11 +1,14 @@
 ### Olá, como vai? Por aqui estou construindo minha jornada DEV! <br> 
 #### Sou Psicopedagoga, em transição de carreira, estudando Front-End pela [Laboratória](https://www.laboratoria.la/br).
-  
+
+  <br><div align = center>
+    <img align="right" alt="Mary-pic" height="140px" src="https://picrew.me/shareImg/org/202204/263035_eFddREOg.png">
+  </div>
  
 - 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
-- 💻 Cursando o Bootcamp da Laboratória, introdução a linguagem Java no IFSP e um Lógica de Programação no IFRS.
+- 💻 Cursando o Bootcamp da Laboratória, introdução a linguagem Java no IFSP e Lógica de Programação no IFRS.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Lógica de Programação.
-- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais e de me aprofundar em Python, JAVA e Cloud.
+- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais,
 - 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022.
 
 <br><div align = center>
