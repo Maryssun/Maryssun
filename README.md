@@ -8,7 +8,7 @@
 - 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
 - 💻 Cursando o Bootcamp da Laboratória, introdução a linguagem Java no IFSP e Lógica de Programação no IFRS.
 - 💛 Estou aprendendo JavaScript, CSS, HTML e Lógica de Programação.
-- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais,
+- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais
 - 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022.
 
 ---
