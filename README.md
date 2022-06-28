@@ -1,7 +1,8 @@
 ### Olá, como vai? Por aqui estou construindo minha jornada DEV! <br> 
 #### Sou Psicopedagoga, em transição de carreira, estudando Front-End pela [Laboratória](https://www.laboratoria.la/br).
 
-  <br><div align = center>
+  <br>
+  <div align = center>
     <img align="right" alt="Mary-pic" height="140px" src="https://picrew.me/shareImg/org/202204/263035_eFddREOg.png">
   </div>
  
@@ -20,13 +21,17 @@
   
   <br><br>
   
+ <div align="center">
+   
+  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  
+  <img width="47%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Maryssun&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+  <br>
+  
+ </div>
+ 
+  <div>
     
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=tokyonight&include_all_commits=true"/>
- 
-</div>
-
----
-     
-  ##
- 
   ![Snake animation](https://github.com/Maryssun/Maryssun/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
