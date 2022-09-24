@@ -1,5 +1,5 @@
 ### Olá, como vai? Por aqui estou construindo minha jornada DEV! <br> 
-#### Sou Psicopedagoga, em transição de carreira, estudando Front-End pela [Laboratória](https://www.laboratoria.la/br).
+#### Sou desenvolvedora de sistemas no [Bradesco](https://banco.bradesco/html/classic/index.shtm), estudei Front-End na [Laboratória](https://www.laboratoria.la/br).
 
   <br>
   <div align = center>
