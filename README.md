@@ -7,10 +7,10 @@
   </div>
  
 - 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
-- 💻 Cursando o Bootcamp da [Laboratória](https://www.laboratoria.la/br) e Lógica de Programação no IFRS.
-- 💛 Estou aprendendo JavaScript, CSS, HTML e Lógica de Programação.
-- 🕹 Tenho grande interesse em cursar desenvolvimento de Jogos Digitais
-- 🎓 Iniciarei o Bacharelado em Tecnologia da Informação no segundo semestre de 2022.
+- 💻 Formada no Bootcamp da [Laboratória](https://www.laboratoria.la/br).
+- 💛 Estou estudando: Java, JavaScript, CSS, HTML, Lógica de Programação, Cobol e Angular.
+- 🕹 Tenho grande interesse em desenvolver jogos.
+- 🎓 Cursando Bacharelado em Tecnologia da Informação.
 
 ---
 
