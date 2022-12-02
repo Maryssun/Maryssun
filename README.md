@@ -2,12 +2,12 @@
 #### Sou desenvolvedora de sistemas no [Bradesco](https://banco.bradesco/html/classic/index.shtm), estudei Front-End na [Laboratória](https://www.laboratoria.la/br).
 
   <br>
-  <div align = center>
-    <img align="right" alt="Mary-pic" height="140px" src="https://picrew.me/shareImg/org/202204/263035_eFddREOg.png">
-  </div>
+<!--  <div align = center>
+   <img align="right" alt="Mary-pic" height="140px" src="https://picrew.me/shareImg/org/202204/263035_eFddREOg.png">
+  </div> -->
  
-- 👩‍🎓 Sou formada em Psicopedagogia e trabalho com inclusão social.
-- 💻 Formada no Bootcamp da [Laboratória](https://www.laboratoria.la/br).
+- 👩‍🎓 Sou formada em Psicopedagogia.
+- 💻 Estudei desenvolvimento de sistemas pelo Bootcamp da [Laboratória](https://www.laboratoria.la/br).
 - 💛 Estou estudando: Java, JavaScript, CSS, HTML, Lógica de Programação, Cobol e Angular.
 - 🕹 Tenho grande interesse em desenvolver jogos.
 - 🎓 Cursando Bacharelado em Tecnologia da Informação.
