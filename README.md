@@ -8,7 +8,7 @@
  
 - 👩‍🎓 Sou formada em Psicopedagogia.
 - 💻 Estudei desenvolvimento de sistemas pelo Bootcamp da [Laboratória](https://www.laboratoria.la/br).
-- 💛 Estou estudando: Java, JavaScript, CSS, HTML, Lógica de Programação, Cobol e Angular.
+- 💛 Tenho conhecimento em: Java, JavaScript, CSS e HTML.
 - 🕹 Tenho grande interesse em desenvolver jogos.
 - 🎓 Cursando Bacharelado em Tecnologia da Informação.
 
