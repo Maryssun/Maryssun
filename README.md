@@ -1,5 +1,5 @@
 ### Olá, como vai? Por aqui estou construindo minha jornada DEV! <br> 
-#### Sou desenvolvedora de sistemas no [Bradesco](https://banco.bradesco/html/classic/index.shtm).
+#### Sou Analista de Governança no [Bradesco](https://banco.bradesco/html/classic/index.shtm).
 
   <br>
 <!--  <div align = center>
@@ -10,7 +10,7 @@
 - 💻 Estudei desenvolvimento de sistemas pelo Bootcamp da [Laboratória](https://www.laboratoria.la/br).
 - 💛 Tenho conhecimento em: Java, JavaScript, CSS e HTML.
 - 🕹 Tenho grande interesse em desenvolver jogos.
-- 🎓 Cursando Bacharelado em Tecnologia da Informação.
+- 🎓 Cursando Bacharelado em Tecnologia da Informação e MBA de Gestão de Projetos.
 
 ---
 
