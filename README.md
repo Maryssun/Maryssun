@@ -18,13 +18,13 @@
 
 ---
 
-###  Sobre mim
--  Formada em Pedagogia pela Unisanta, Bacharel em TI pela Univesp e estou cursando Gestão em TI na PUCPR
--  Estudei desenvolvimento front-end com JavaScript pelo Bootcamp da <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
--  Tenho conhecimento em **Java, JavaScript, HTML, CSS** e já trabalhei com **Cobol**
--  Cursei projetos com **React** e integração via **APIs**
--  Apaixonada por jogos e gamificação
--  Atualmente trabalho com **gestão e governança de TI**, promovendo cultura Lean e agilidade
+### Sobre mim
+- 🎓 Formada em **Pedagogia** pela Unisanta, Bacharel em **TI** pela Univesp e cursando **Gestão em TI** na PUCPR
+- 👩‍💻 Estudei desenvolvimento front-end com JavaScript pelo Bootcamp da <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
+- 💻 Conhecimento em **Java, JavaScript, HTML, CSS** e experiência com **Cobol**
+- ⚙️ Experiência com **React** e integração via **APIs**
+- 🎮 Apaixonada por **jogos** e **gamificação**
+- 📊 Atuo com **gestão e governança de TI**, promovendo cultura Lean e agilidade
 
 ---
 
@@ -60,32 +60,19 @@
 - 🌱 Estudando mais sobre **RH Tech, Agilidade e Transformação Cultural**
 - 🎮 Sonho em criar experiências gamificadas que unam pessoas, cultura e tecnologia
 - 🔄 Acredito na transformação digital não só em sistemas, mas também na cultura organizacional
-- 📚 Continuo explorando como metodologias ágeis e ferramentas como **Scrum** e **Kanban** podem ser aplicadas em qualquer cenário
+- 📚 Explorando como metodologias ágeis como **Scrum** e **Kanban** podem ser aplicadas em diversos contextos
 
 ---
 
- <br><br>
-  
- <div align="center">
-   
+<div align="center">
   <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  
   <img width="47%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Maryssun&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-  <br>
-  
- </div>
- 
-  <div>
-    
-  ![Snake animation](https://github.com/Maryssun/Maryssun/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+</div>
+
+<br clear="both"/>
 
 ---
 
 <p align="center">
   ✨ Obrigada por visitar meu perfil ✨
 </p>
-
-
-<div align = center>
