@@ -19,7 +19,7 @@
 ---
 
 ### Sobre mim
-- 🎓 Formada em **Pedagogia** pela Unisanta, Bacharel em **TI** pela Univesp e cursando **Gestão em TI** na PUCPR
+- 🎓 Formada em **Pedagogia** pela Unisanta, Bacharel em **TI** pela Univesp e cursando **Especialização em Educação à Distância** no IFSC
 - 👩‍💻 Estudei desenvolvimento front-end com JavaScript pelo Bootcamp da <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
 - 💻 Conhecimento em **Java, JavaScript, HTML, CSS** e experiência com **Cobol**
 - ⚙️ Experiência com **React** e integração via **APIs**
