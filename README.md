@@ -19,12 +19,11 @@
 ---
 
 ### Sobre mim
-- 🎓 Formada em **Pedagogia** pela Unisanta, Bacharel em **TI** pela Univesp e cursando **Especialização em Educação à Distância** no IFSC
-- 👩‍💻 Estudei desenvolvimento front-end com JavaScript pelo Bootcamp da <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
+- 🎓 Formada em **Pedagogia** pela Unisanta, cursando Bacharel em **TI** pela Univesp 
+- 👩‍💻 Estudei desenvolvimento web na <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
 - 💻 Conhecimento em **Java, JavaScript, HTML, CSS** e experiência com **Cobol**
 - ⚙️ Experiência com **React** e integração via **APIs**
-- 🎮 Apaixonada por **jogos** e **gamificação**
-- 📊 Atuo com **gestão e governança de TI**, promovendo cultura Lean e agilidade
+- 📊 Atuo com **gestão e governança de TI**
 
 ---
 
@@ -57,10 +56,12 @@
 ---
 
 ### 💡 Curiosidades
-- 🌱 Estudando mais sobre **RH Tech, Agilidade e Transformação Cultural**
-- 🎮 Sonho em criar experiências gamificadas que unam pessoas, cultura e tecnologia
-- 🔄 Acredito na transformação digital não só em sistemas, mas também na cultura organizacional
-- 📚 Explorando como metodologias ágeis como **Scrum** e **Kanban** podem ser aplicadas em diversos contextos
+
+🌱 Estudando e pesquisando HR Tech, aprendizagem organizacional e transformação cultural orientada por tecnologia
+🎮 Explorando gamificação aplicada ao desenvolvimento de pessoas e à disseminação de conhecimento nas organizações
+🔄 Acredito que transformação digital acontece quando tecnologia, processos e cultura evoluem juntos
+📚 Investigando como frameworks como Scrum, Kanban e práticas ágeis podem apoiar aprendizagem contínua e desenvolvimento organizacional
+🧠 Interessada em estruturas de aprendizagem corporativa, gestão do conhecimento e educação aplicada à estratégia
 
 ---
 
