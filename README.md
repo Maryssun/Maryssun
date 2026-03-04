@@ -19,11 +19,11 @@
 ---
 
 ### Sobre mim
-- 🎓 Formada em **Pedagogia** pela Unisanta, cursando Bacharel em **TI** pela Univesp 
-- 👩‍💻 Estudei desenvolvimento web na <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
-- 💻 Conhecimento em **Java, JavaScript, HTML, CSS** e experiência com **Cobol**
-- ⚙️ Experiência com **React** e integração via **APIs**
-- 📊 Atuo com **gestão e governança de TI**
+-  Formada em **Pedagogia** pela Unisanta, cursando Bacharel em **TI** pela Univesp 
+-  Estudei desenvolvimento web na <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
+-  Conhecimento em **Java, JavaScript, HTML, CSS** e experiência com **Cobol**
+-  Experiência com **React** e integração via **APIs**
+-  Atuo com **gestão e governança de TI**
 
 ---
 
@@ -62,15 +62,6 @@
 🔄 Acredito que transformação digital acontece quando tecnologia, processos e cultura evoluem juntos
 📚 Investigando como frameworks como Scrum, Kanban e práticas ágeis podem apoiar aprendizagem contínua e desenvolvimento organizacional
 🧠 Interessada em estruturas de aprendizagem corporativa, gestão do conhecimento e educação aplicada à estratégia
-
----
-
-<div align="center">
-  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Maryssun&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img width="47%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Maryssun&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-</div>
-
-<br clear="both"/>
 
 ---
 
