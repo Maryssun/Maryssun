@@ -57,11 +57,11 @@
 
 ### 💡 Curiosidades
 
-🌱 Estudando e pesquisando HR Tech, aprendizagem organizacional e transformação cultural orientada por tecnologia
-🎮 Explorando gamificação aplicada ao desenvolvimento de pessoas e à disseminação de conhecimento nas organizações
-🔄 Acredito que transformação digital acontece quando tecnologia, processos e cultura evoluem juntos
-📚 Investigando como frameworks como Scrum, Kanban e práticas ágeis podem apoiar aprendizagem contínua e desenvolvimento organizacional
-🧠 Interessada em estruturas de aprendizagem corporativa, gestão do conhecimento e educação aplicada à estratégia
+- Estudando e pesquisando HR Tech, aprendizagem organizacional e transformação cultural orientada por tecnologia
+- Explorando gamificação aplicada ao desenvolvimento de pessoas e à disseminação de conhecimento nas organizações
+- Acredito que transformação digital acontece quando tecnologia, processos e cultura evoluem juntos
+- Investigando como frameworks como Scrum, Kanban e práticas ágeis podem apoiar aprendizagem contínua e desenvolvimento organizacional
+- Interessada em estruturas de aprendizagem corporativa, gestão do conhecimento e educação aplicada à estratégia
 
 ---
 
