@@ -75,7 +75,7 @@ Atuo conectando **tecnologia, aprendizagem e estratégia**, com foco em transfor
 
 ### Explorando
 
-- HR Tech  
+- Tecnologias Emergentes  
 - Gamificação aplicada à aprendizagem  
 - Disseminação de conhecimento em escala  
 - Integração entre tecnologia, cultura e processos  
