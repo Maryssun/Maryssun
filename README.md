@@ -1,78 +1,151 @@
 <h1 align="center">Oi, eu sou a Maryssol 👋</h1>
 
+<h3 align="center">
+Governança de TI | Gestão de Produtos | Inteligência de Dados | IA aplicada à operação | Adoção Digital
+</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/5VK6Y5rdOPBw9pNfdO/giphy.gif" width="200" alt="Gif que representa minha vibe">
+  <img src="./assets/maryssol-tech.gif" width="300" alt="Gif representando tecnologia, dados e governança">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dayannemaryssol/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dayannemaryssol/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:maryssol.dayanne@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### Sobre mim
+## Sobre mim
 
-- Formada em **Pedagogia (Unisanta)** e graduanda em **Tecnologia da Informação (Univesp)**
-- Formação em desenvolvimento web pela <a href="https://www.laboratoria.la/br" target="_blank">Laboratória</a>
-- Conhecimento em **Java, JavaScript, HTML, CSS** e experiência com **Cobol**
-- Experiência com **React** e integração via **APIs**
-- Atuação em **Governança de TI, gestão de iniciativas e organização de conhecimento**
+Atuo em **Governança de TI**, conectando **negócio e tecnologia** por meio de iniciativas em **Product Management, Inteligência de Dados, IA aplicada à operação, automação, aprendizagem corporativa e Gestão do Conhecimento**.
 
-Atuo conectando **tecnologia, aprendizagem e estratégia**, com foco em transformar conhecimento em aplicação real no contexto de trabalho.
+Minha trajetória combina **educação, tecnologia, dados e estratégia**, com foco em transformar processos, conhecimento e ferramentas digitais em soluções aplicáveis ao contexto real de trabalho.
+
+Tenho interesse em iniciativas que envolvem **tomada de decisão orientada por dados, estruturação de indicadores, adoção tecnológica, automação de rotinas, transformação digital, aprendizagem organizacional e desenvolvimento de pessoas**.
 
 ---
 
-### Atuação
+## Formação Acadêmica
 
-- Governança de TI  
-- Gestão de projetos e iniciativas  
-- Definição e acompanhamento de indicadores (KPIs)  
-- Estruturação de processos e organização operacional  
-- Disseminação de conhecimento e aprendizagem aplicada  
+* **MBA em Inteligência de Dados & Analytics para Negócios** – Mackenzie *(cursando)*
+* **MBA Essentials: Leadership and Change** – The London School of Economics and Political Science (LSE)
+* **Pós-graduação em Educação Corporativa e Gestão do Conhecimento** – UMFG
+* **Especialização em Educação Profissional e Tecnológica (EPT)** – IFSC
+* **Bacharelado em Tecnologia da Informação** – UNIVESP
+* **Licenciatura em Pedagogia** – Universidade Santa Cecília
+* **Bootcamp em Desenvolvimento Web Front-End** – Laboratoria
 
 ---
 
-###  Tecnologias e Ferramentas
+## Certificações e Credenciais
+
+* **Certified SAFe® 6 Agilist** – Scaled Agile
+* **Certified Scrum Product Owner® (CSPO)** – Scrum Alliance
+* **Certified ScrumMaster® (CSM)** – Scrum Alliance
+* **Product Manager** – PM3
+* **Digital Adoption Certification** – Pendo.io
+* **Google Analytics Certification** – Google
+* **Alteryx Designer Core Certification** – Alteryx
+
+---
+
+## O que eu faço
+
+* Levantamento de dados, análise de cenários e apoio à tomada de decisão
+* Estruturação de indicadores, dashboards e modelos de acompanhamento
+* Mapeamento de processos, rotinas e oportunidades de melhoria
+* Aplicação de IA, automação e ferramentas digitais em contextos operacionais
+* Product Discovery, definição de hipóteses e organização de necessidades do negócio
+* Gestão do Conhecimento, aprendizagem corporativa e disseminação de práticas
+* Apoio à adoção de agilidade, frameworks, ritos e modelos de governança
+
+---
+
+## Áreas de interesse
+
+* Governança de TI
+* Inteligência de Dados
+* Product Management
+* IA aplicada à operação
+* Automação de processos
+* Gestão do Conhecimento
+* Aprendizagem organizacional
+* Transformação digital
+* Gamificação aplicada à aprendizagem
+* Cultura, processos e adoção tecnológica
+
+---
+
+## Tecnologias e ferramentas
+
+### Desenvolvimento
 
 <p>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Cobol-00599C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/> <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/> <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/SAFe%20Agile%206.0-002855?style=for-the-badge&logo=scrumalliance&logoColor=white"/> <img src="https://img.shields.io/badge/Kanban-FF6F00?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Lean-FFA500?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/A3%20Thinking-005F73?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/CSM%20Certified-FF6600?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/Mainframe-1E2A47?style=for-the-badge&logo=mainframe&logoColor=white"/> </p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cobol-00599C?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Dados, Cloud e Automação
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-02569B?style=for-the-badge&logoColor=white"/>
+</p>
+
+### Gestão, Produto e Colaboração
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+</p>
+
+### Agilidade e Governança
+
+<p>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lean-FFA500?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAFe%206.0-002855?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A3%20Thinking-005F73?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Governança%20de%20TI-1E2A47?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-### Interesses
+## Atualmente explorando
 
-- Gestão do Conhecimento  
-- Aprendizagem organizacional  
-- Transformação digital  
-- Metodologias ágeis  
-- Estruturação de trilhas e arquitetura de aprendizagem  
-
----
-
-### Explorando
-
-- Tecnologias Emergentes  
-- Gamificação aplicada à aprendizagem  
-- Disseminação de conhecimento em escala  
-- Integração entre tecnologia, cultura e processos  
+* IA generativa aplicada à produtividade e governança
+* Agentes, automações e ferramentas digitais para rotinas operacionais
+* Dashboards e indicadores para leitura de maturidade e evolução
+* Product Discovery e estruturação de iniciativas digitais
+* Gestão do Conhecimento orientada por dados
+* Trilhas de aprendizagem, gamificação e adoção tecnológica
 
 ---
 
-### Visão
+## Minha visão
 
-Acredito que tecnologia só gera valor quando é **compreendida, aplicada e integrada ao contexto real de trabalho**.
-
----
+> Tecnologia só gera valor quando é compreendida, aplicada e integrada ao contexto real de trabalho.
 
 <p align="center">
-  Aprendendo, construindo e evoluindo
+  Aprendendo, conectando ideias e construindo soluções com propósito ☀️
 </p>
