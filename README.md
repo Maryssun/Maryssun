@@ -35,7 +35,7 @@ Tenho interesse em iniciativas que envolvem **tomada de decisão orientada por d
 ## Formação Acadêmica
 
 * **MBA em Inteligência de Dados & Analytics para Negócios** – Mackenzie *(cursando)*
-* **MBA Essentials: Leadership and Change** – The London School of Economics and Political Science (LSE)
+* **MBA Leadership and Change** – The London School of Economics and Political Science (LSE)
 * **Pós-graduação em Educação Corporativa e Gestão do Conhecimento** – UMFG
 * **Especialização em Educação Profissional e Tecnológica (EPT)** – IFSC
 * **Bacharelado em Tecnologia da Informação** – UNIVESP
