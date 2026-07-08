@@ -5,7 +5,7 @@ Governança de TI | Gestão de Produtos | Inteligência de Dados | IA aplicada �
 </h3>
 
 <p align="center">
-  <img src="./assets/hacker-hacking.gif" width="320" alt="Gif hacker">
+  <img src="./assets/hacker-hacking.gif" width="520" alt="Gif hacker">
 </p>
 
 <p align="center">
@@ -24,11 +24,24 @@ Governança de TI | Gestão de Produtos | Inteligência de Dados | IA aplicada �
 
 ## Sobre mim
 
-Atuo em **Governança de TI**, conectando **negócio e tecnologia** por meio de iniciativas em **Product Management, Inteligência de Dados, IA aplicada à operação, automação, aprendizagem corporativa e Gestão do Conhecimento**.
+## Sobre mim
 
-Minha trajetória combina **educação, tecnologia, dados e estratégia**, com foco em transformar processos, conhecimento e ferramentas digitais em soluções aplicáveis ao contexto real de trabalho.
+Com 5 anos de experiência em **Governança de TI**, atuo conectando **negócio e tecnologia** para transformar processos, dados, conhecimento e ferramentas digitais em soluções aplicáveis ao contexto real de trabalho.
 
-Tenho interesse em iniciativas que envolvem **tomada de decisão orientada por dados, estruturação de indicadores, adoção tecnológica, automação de rotinas, transformação digital, aprendizagem organizacional e desenvolvimento de pessoas**.
+Minha trajetória combina **educação, tecnologia, dados e estratégia**, com atuação em **Product Management, Inteligência de Dados, IA aplicada à operação, automação, aprendizagem corporativa e Gestão do Conhecimento**.
+
+Este GitHub funciona como meu **laboratório de construção e experimentação**, onde vou desenvolver cases, testar novas ferramentas e registrar aprendizados, especialmente em:
+
+- Agentes de IA
+- Automações
+- Dashboards e indicadores
+- Inteligência de Dados
+- Product Discovery
+- Adoção tecnológica
+- Soluções digitais para rotinas operacionais
+- Aprendizagem organizacional aplicada à tecnologia
+
+Tenho interesse em iniciativas que envolvem **tomada de decisão orientada por dados, estruturação de indicadores, automação de rotinas, transformação digital e desenvolvimento de pessoas**.
 
 ---
 
