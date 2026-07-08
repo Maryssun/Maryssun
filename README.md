@@ -24,8 +24,6 @@ Governança de TI | Gestão de Produtos | Inteligência de Dados | IA aplicada �
 
 ## Sobre mim
 
-## Sobre mim
-
 Com 5 anos de experiência em **Governança de TI**, atuo conectando **negócio e tecnologia** para transformar processos, dados, conhecimento e ferramentas digitais em soluções aplicáveis ao contexto real de trabalho.
 
 Minha trajetória combina **educação, tecnologia, dados e estratégia**, com atuação em **Product Management, Inteligência de Dados, IA aplicada à operação, automação, aprendizagem corporativa e Gestão do Conhecimento**.
