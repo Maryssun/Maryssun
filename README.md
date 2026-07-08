@@ -5,7 +5,7 @@ Governança de TI | Gestão de Produtos | Inteligência de Dados | IA aplicada �
 </h3>
 
 <p align="center">
-  <img src="./assets/maryssol-tech.gif" width="300" alt="Gif representando tecnologia, dados e governança">
+  <img src="./assets/hacker-hacking.gif" width="320" alt="Gif hacker">
 </p>
 
 <p align="center">
