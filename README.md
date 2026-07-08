@@ -158,5 +158,5 @@ Tenho interesse em iniciativas que envolvem **tomada de decisão orientada por d
 > Tecnologia só gera valor quando é compreendida, aplicada e integrada ao contexto real de trabalho.
 
 <p align="center">
-  Aprendendo, conectando ideias e construindo soluções com propósito ☀️
+  “Você tem BRIO?”
 </p>
